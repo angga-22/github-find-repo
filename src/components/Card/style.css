@@ -1,0 +1,33 @@
+.card-wrapper {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 1rem;
+  border-bottom: 1px solid rgb(135, 135, 135);
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card-header > h4{
+  color: rgb(58, 58, 58);
+}
+
+.card-body > p {
+  color: rgb(78, 77, 77);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(58, 58, 58);
+ 
+}
+.url::after {
+  content: "\2192";
+  margin-left: 5px;
+}
