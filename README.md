@@ -1,6 +1,6 @@
 # github-find-repo - bitFlyer 
 
-## This is a small features to searching github repository
+## This is a small features for searching github repository
 
 ## Tech Stack
 1. React Typescript
