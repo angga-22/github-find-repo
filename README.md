@@ -1,4 +1,4 @@
-# github-find-repo
+# github-find-repo - bitFlyer 
 
 ## This is a small features to searching github repository
 
